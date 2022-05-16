@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(44, 44, 43);
+  color: black;
+  transition: ease 1.5s;
+}
+
+.botones {
+  background-color: rgb(6, 89, 243);
+  color: white;
+  border-radius: 10px;
+  border: none;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.titulo {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1rem;
+}
